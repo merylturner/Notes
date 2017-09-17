@@ -3,6 +3,8 @@
 ## Resources
 * [Connecting your React Components with Redux: Daily JS](https://medium.com/dailyjs/quick-redux-tips-for-connecting-your-react-components-e08da72f5b3)
 * [React Docs](https://facebook.github.io/react/docs/hello-world.html)
+* [Components & Props](https://facebook.github.io/react/docs/components-and-props.html)
+
 
 ## React Basics
 * virtual Dom
@@ -14,6 +16,9 @@
 * Testing
     * Snapshot, Jest
 
+
+## Testing
+* [Jest, Snapshot Testing](https://semaphoreci.com/community/tutorials/snapshot-testing-react-components-with-jest)
 ## React/Redux
 * **connect**
     * Common mistake is to connect your top level components to the store
